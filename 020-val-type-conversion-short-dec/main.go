@@ -21,9 +21,9 @@ func main() {
 		fmt.Printf("%v of type %T \n", z, z)
 	*/
 
-	/*
+	
 		// this does work
 		z = float64(m)
 		fmt.Printf("%v of type %T \n", z, z)
-	*/
+	
 }
